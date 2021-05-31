@@ -1,0 +1,7 @@
+Unique_ID,org_name,org_url,Twitter_URL,Twitter_handle,earliest_tweet_in_db,number_of_tweets_in_db
+1,'Nasa',,https://twitter.com/nasa,nasa,,
+2,'Space X',,https://twitter.com/spacex,spacex,,
+3,'Centro aeroespacial aleman',,https://twitter.com/dlr_en,dlr_en,,
+4,'Centro espacial Kennedy',,https://twitter.com/nasakennedy,nasakennedy,,
+5,'International Space Station’,,https://twitter.com/space_station,space_station,,
+6,'Nasa en espanol',,https://twitter.com/nasa_es,nasa_es,,
